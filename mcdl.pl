@@ -1,5 +1,7 @@
 #!/usr/bin/perl -w
 #
+# $Id$
+# 
 # mcdl - Quickly add CD info to MySQL backend using CDDB 
 # Copyright (C) 1999-2000 Robert S. Dubinski, dubinski@mscs.mu.edu
 # additional modifications since v0.1.0 Copyright (C) 2003-2004 by Russ 
